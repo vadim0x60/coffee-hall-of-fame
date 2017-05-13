@@ -4,7 +4,7 @@ Travel checklist for fellow coffeemaniacs. To qualify, a place must be the origi
 
 Here, _coffee drink_ means either a method of brewing coffee (Moka pot, espresso machine, etc.) or a particular mixture of drinks one of which is coffee. If there is any ambiguity to what _origin_ is, use the place where this drink was first served commercially in an establishment open to the public.
 
-Feel free to expand the list and send a pull request. Feel free to expand the list by inventing new coffee drinks.
+This list is incomplete. Feel free to expand the list and send a pull request. Feel free to expand the list by inventing new coffee drinks.
 
 ## Europe
 
