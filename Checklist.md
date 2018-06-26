@@ -17,6 +17,7 @@ This list is incomplete. Feel free to expand the list and send a pull request. F
 * Valencia, Spain: [Cafe bombon](https://en.wikipedia.org/wiki/Caf%C3%A9_bomb%C3%B3n), [Café del tiempo](https://es.wikipedia.org/wiki/Caf%C3%A9_del_tiempo)
 * Thessaloniki, Greece: [Greek Frappe](https://en.wikipedia.org/wiki/Frappé_coffee)
 * Moscow, Russia: [Raf](http://sprudge.com/raf-coffee-russia-91027.html)
+* Helsingborg, Sweden: [Espresso Tonic](https://www.eater.com/drinks/2015/5/11/8583833/espresso-tonics)
 
 ## Middle East
 
